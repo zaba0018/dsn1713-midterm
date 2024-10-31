@@ -4,8 +4,13 @@
 
 
 
+*{
+  box-sizing: border-box;
+}
+Body {
+  background-color: #F6F3ED;
 
-
+}
 .navbar-brand {
   color: #F6F3ED;
 }
@@ -40,6 +45,12 @@ h1, h2, h3 {
 
 #cta .d-flex {
   height: 400px;
+}
+#List{
+  list-style: none;
+}
+#List-2{
+  list-style: none;
 }
 
 section:not(#hero):not(#cta){
