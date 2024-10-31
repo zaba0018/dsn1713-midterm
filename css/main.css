@@ -2,7 +2,18 @@
 
 /* Set custom variables here */
 
-
+:root{
+    --primary: #2e483a;
+    --light: #F6F3ED;
+    --bs-primary: #2e483a;
+    --bs-primary-rgb: 46, 72, 58;
+    --bs-light: #F6F3ED;
+    --bs-light-rgb: 246, 243, 237;
+}
+#Button{
+  background-color: #2e483a;
+  color: #F6F3ED;
+}
 
 *{
   box-sizing: border-box;
