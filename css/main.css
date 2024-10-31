@@ -13,6 +13,13 @@
 #Button{
   background-color: #2e483a;
   color: #F6F3ED;
+  border-color: #2e483a;
+  stroke: none;
+}
+@media (max-width: 770px){
+  #Healthy{
+    text-align: center;
+  }
 }
 
 *{
